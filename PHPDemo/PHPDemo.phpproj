@@ -16,7 +16,14 @@
     <IncludeDebugInformation>false</IncludeDebugInformation>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="about.php" />
+    <Compile Include="contact.php" />
+    <Compile Include="faq.php" />
+    <Compile Include="home.php" />
     <Compile Include="index.php" />
+    <Compile Include="menu.php" />
     <Compile Include="one.php" />
+    <Compile Include="options.php" />
+    <Compile Include="siteVariables.php" />
   </ItemGroup>
 </Project>
