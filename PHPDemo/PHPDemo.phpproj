@@ -22,8 +22,10 @@
     <Compile Include="home.php" />
     <Compile Include="index.php" />
     <Compile Include="menu.php" />
+    <Compile Include="objects.php" />
     <Compile Include="one.php" />
     <Compile Include="options.php" />
     <Compile Include="siteVariables.php" />
+    <Compile Include="vehicle.php" />
   </ItemGroup>
 </Project>
