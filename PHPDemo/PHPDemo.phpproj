@@ -23,6 +23,8 @@
     <Compile Include="index.php" />
     <Compile Include="menu.php" />
     <Compile Include="objects.php" />
+    <Compile Include="objects2.php" />
+    <Compile Include="objNav.php" />
     <Compile Include="one.php" />
     <Compile Include="options.php" />
     <Compile Include="siteVariables.php" />
